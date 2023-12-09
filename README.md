@@ -2,8 +2,6 @@
 
 My name is Mykhailo, full-stack engineer with 3+ years of experience in web development. Worked for large enterprise products and innovative startups. Always seeking for creating cost-effective and efficient product that satisfy the needs of stakeholders
 
----
-
 ## 🛠️ Technologies & Tools
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +21,6 @@ My name is Mykhailo, full-stack engineer with 3+ years of experience in web deve
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
----
 <!-- ## 📊 Statistics
 [![Mykhailo's github stats](https://github-readme-stats.vercel.app/api?username=cookieMonsterDev&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -31,7 +28,6 @@ My name is Mykhailo, full-stack engineer with 3+ years of experience in web deve
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cookiemonsterdev)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cookieMonsterDev)
 
----
 
 ## 🤙 Contacts
 
