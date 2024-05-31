@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mykhailo, full-stack engineer with 2+ years of experience in web development. Worked for large enterprise products and innovative startups. Always seeking for creating cost-effective and efficient product that satisfy the needs of stakeholders
+My name is Mykhailo, full-stack engineer with 3+ years of experience in web development. Worked for large enterprise products and innovative startups. Always seeking for creating cost-effective and efficient product that satisfy the needs of stakeholders
 
 ## 🛠️ Technologies & Tools
 
