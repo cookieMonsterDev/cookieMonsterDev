@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-My name is Mykhailo, full-stack engineer with 3+ years of experience in web development. Worked for large enterprise products and innovative startups. Always seeking for creating cost-effective and efficient product that satisfy the needs of stakeholders
+I'm Mykhailo. I have over 3+ years of experience in the IT sphere. My journey began as a mere QA
+engineer, and now I can proudly call myself a Full-stack Developer. My experience speaks for itself; I
+have knowledge not only about developing products but also about testing them, which is a
+significant advantage. I believe this background helps me make fewer bugs, or at least I hope so!
+Throughout these years, I have worked with many technologies, some of which are listed below. My
+main plan for the future is to continue growing and developing myself further as a developer. I hope
+this small introduction helps you get to know me better.
 
 ## 🛠️ Technologies & Tools
 
