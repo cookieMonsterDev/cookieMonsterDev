@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mykhailo. I have over 3+ years of experience in the IT sphere. My journey began as a mere QA
+I'm Mykhailo. I have over 3.5+ years of experience in the IT sphere. My journey began as a mere QA
 engineer, and now I can proudly call myself a Full-stack Developer. My experience speaks for itself; I
 have knowledge not only about developing products but also about testing them, which is a
 significant advantage. I believe this background helps me make fewer bugs, or at least I hope so!
