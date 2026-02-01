@@ -27,10 +27,6 @@ this small introduction helps you get to know me better.
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-## 📊 Stats
-<img height=175 alt="Mykhailo's github stats" src="https://github-readme-stats.vercel.app/api?username=cookieMonsterDev&theme=dark&count_private=true" />&nbsp;&nbsp;
-<img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookieMonsterDev&layout=compact&theme=dark&count_private=true" />&nbsp;&nbsp;
-
 
 ## 📖 Blog
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cookiemonsterdev)
