@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Backend Developer with 4+ years of experience building scalable APIs and distributed systems using Node.js, TypeScript, and Python. Strong background in microservices architecture, asynchronous messaging (Kafka, RabbitMQ), and database design (PostgreSQL, MongoDB). Experienced in product development, system migrations, and performance optimization. Passionate about clean architecture and continuous improvement.
+Backend Engineer · Node.js / NestJS / Kafka · 4+ years building scalable distributed systems across PostgreSQL, MongoDB, and event-driven microservices (Kafka, RabbitMQ). Led monolith-to-microservices migration in production. Passionate about clean architecture and continuous improvement. Open to senior backend roles.
 
 ## 🛠️ Technologies & Tools
 
