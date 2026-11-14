@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Backend Engineer · Node.js / NestJS / Kafka · 4+ years building scalable distributed systems across PostgreSQL, MongoDB, and event-driven microservices (Kafka, RabbitMQ). Led monolith-to-microservices migration in production. Passionate about clean architecture and continuous improvement. Open to senior backend roles.
+Backend Engineer with 5 years of experience building APIs, distributed systems and data-intensive services with TypeScript/Node.js, Go and Python. I own work end to end: from schema design to deployment and production support.
+
+Open to remote backend and software engineering roles. Email is the best way to reach me
 
 ## 🛠️ Technologies & Tools
 
