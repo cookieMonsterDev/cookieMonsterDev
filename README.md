@@ -1,24 +1,25 @@
-## Hi there 👋
+**Backend engineer · APIs, distributed systems, and data-intensive services**
 
-Backend Engineer with 5 years of experience building APIs, distributed systems and data-intensive services with TypeScript/Node.js, Go and Python. I own work end to end: from schema design to deployment and production support.
+I’ve spent 5 years building software, with a focus on backend systems in TypeScript, Go, and Python. I take features from schema design through deployment and production support.
 
-Open to remote backend and software engineering roles. Email is the best way to reach me
+**Open to remote backend and software engineering roles.**
 
-## 🛠️ Technologies & Tools
+[GitHub](https://github.com/cookieMonsterDev) · [LinkedIn](https://www.linkedin.com/in/mykhailo-toporkov/)
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Mongodb Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![SCSS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+## ⚡ Selected work
+
+- **Cut average API response time in half** by leading a production migration from a monolith to six independently deployable services that communicate through Apache Kafka.
+- **Standardized authentication and authorization across eight services**, rolling out the shared layer with zero downtime.
+- **Cut background task runtime by roughly 75%** by tuning scheduled jobs and MongoDB aggregation pipelines for a 3D-printing automation platform.
+
+## 🛠️ Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-245B94?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2F6A44?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-006D83?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-245B94?style=flat-square&logo=python&logoColor=white)
+
+- **Backend** · NestJS, Fastify, Express, FastAPI
+- **Data and messaging** · PostgreSQL, MongoDB, Redis, Apache Kafka, RabbitMQ
+- **Infrastructure** · Docker, Kubernetes, Flux CD, AWS
+- **Frontend** · React, Next.js, Tailwind CSS
