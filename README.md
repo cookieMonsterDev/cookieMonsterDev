@@ -6,12 +6,6 @@ I’ve spent 5 years building software, with a focus on backend systems in TypeS
 
 [GitHub](https://github.com/cookieMonsterDev) · [LinkedIn](https://www.linkedin.com/in/mykhailo-toporkov/)
 
-## ⚡ Selected work
-
-- **Cut average API response time in half** by leading a production migration from a monolith to six independently deployable services that communicate through Apache Kafka.
-- **Standardized authentication and authorization across eight services**, rolling out the shared layer with zero downtime.
-- **Cut background task runtime by roughly 75%** by tuning scheduled jobs and MongoDB aggregation pipelines for a 3D-printing automation platform.
-
 ## 🛠️ Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-245B94?style=flat-square&logo=typescript&logoColor=white)
